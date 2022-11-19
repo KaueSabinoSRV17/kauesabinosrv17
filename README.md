@@ -32,7 +32,7 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - 👯 I’m looking to collaborate on: ElasticSearch, to increase my skills in Java and Insominia, to increase my NodeJS skills
 
-- 🤔 I’m looking for help with: ReactJS, 
+- 🤔 I’m looking for help with: ReactJS, especially about the most approprieted types when using it with Typescript 
 
 - 💬 Ask me about: My two cents about the future of front-end (Flutter hahahaha) and back-end (Mostly Cloud Providers) web development 
 
