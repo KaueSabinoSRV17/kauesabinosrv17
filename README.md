@@ -1,6 +1,6 @@
 # Kauê Sabino Villaça de Almeida
 
-## Accomplishments
+## Achievements
 
 I'm fully responsible for the new features and overall code base of the ecommerce project my current company, Auto Geral Autopeças LTDA, a company that has an impact across all of the State of São Paulo, Brazil, with branches in more than 10 diferent cities.
 
@@ -21,6 +21,8 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 - Java Spring Web
 
 - React Basic Projects with Vite (One with Next. Yes, Server Side Rendering is important!)
+
+- Git (Most satisfying tool ever!)
 
 ## Current State of Knowledge (Sugested By Github, i know!)
 
