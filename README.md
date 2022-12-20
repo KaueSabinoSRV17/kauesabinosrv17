@@ -2,7 +2,7 @@
 
 ## Achievements
 
-I'm fully responsible for the new features and overall code base of the ecommerce project my current company, Auto Geral Autopeças LTDA, a company that has an impact across all of the State of São Paulo, Brazil, with branches in more than 10 diferent cities.
+I'm fully responsible for the new features and overall code base of the ecommerce web and mobile project, in my current employer, Auto Geral Autopeças LTDA, a company that has an impact across all of the State of São Paulo, Brazil, with branches in more than 10 diferent cities.
 
 ## Most Expirience with
 
@@ -24,13 +24,15 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - Git (Most satisfying tool ever!)
 
-## Current State of Knowledge (Sugested By Github, i know!)
+## Learning Now
+
+- Unit Tests in Java (Junit, Mockito)
+
+- E2E Tests in Cypress
+
+## Current State of Knowledge
 
 - 🔭 I’m currently working on: Auto Geral Autopeças LTDA, a car parts store with more than 300 employees, and more than 10 branches across the State of São Paulo
-
-- 🌱 I’m currently learning: NodeJS, Typescript, ReactJS, Postgre Database, ElasticSearch, HTTP and REST, Java Spring and Google Cloud Provider
-
-- 👯 I’m looking to collaborate on: ElasticSearch, to increase my skills in Java and Insominia, to increase my NodeJS skills
 
 - 🤔 I’m looking for help with: ReactJS, especially about the most approprieted types when using it with Typescript 
 
