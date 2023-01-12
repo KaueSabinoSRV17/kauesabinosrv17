@@ -6,11 +6,13 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 ## Most Expirience with
 
+- Web Scrapping with Puppeteer
+
 - Javascript (Array methods rocks!)
 
 - HTML (Good and semantic, as it always should be!)
 
-- CSS (Can't wait to write everything on Tailwind!)
+- CSS
 
 - MySQL Database (everybody uses Postgre now :/)
 
@@ -24,11 +26,15 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - Git (Most satisfying tool ever!)
 
-## Learning Now
-
 - Unit Tests in Java (Junit, Mockito)
 
 - E2E Tests in Cypress
+
+## Learning now
+
+- Building UI faster with React
+
+- Mobile Development with Dart and Flutter (Most of projects i've been thinking seem way more pratical for mobile)
 
 ## Current State of Knowledge
 
