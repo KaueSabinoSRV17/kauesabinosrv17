@@ -8,11 +8,11 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - Web Scrapping with Puppeteer
 
-- Javascript (Array methods rocks!)
+- Javascript and Typescript
 
 - HTML (Good and semantic, as it always should be!)
 
-- CSS
+- Tailwind
 
 - MySQL Database (everybody uses Postgre now :/)
 
