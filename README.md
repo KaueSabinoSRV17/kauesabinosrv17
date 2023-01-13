@@ -6,11 +6,13 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 ## Most Expirience with
 
+- HTML 
+
 - Web Scrapping with Puppeteer
 
 - Javascript and Typescript
 
-- HTML (Good and semantic, as it always should be!)
+- Unit Tests in JS (Vitest)
 
 - Tailwind
 
@@ -18,13 +20,13 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - ElasticSearch
 
-- Object Oriented Programing with Java (Good understanding of heritage, interfaces, etc. PS: Yes, i know the diference between interfaces and abstract methods!)
+- Object Oriented Programing with Java
 
 - Java Spring Web
 
 - React Basic Projects with Vite (One with Next. Yes, Server Side Rendering is important!)
 
-- Git (Most satisfying tool ever!)
+- Git
 
 - Unit Tests in Java (Junit, Mockito)
 
