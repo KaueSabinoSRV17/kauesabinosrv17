@@ -24,7 +24,7 @@ I'm fully responsible for the new features and overall code base of the ecommerc
 
 - Java Spring Web
 
-- React Basic Projects with Vite (One with Next. Yes, Server Side Rendering is important!)
+- React Projects with React Query, Firebase and React Router
 
 - Git
 
