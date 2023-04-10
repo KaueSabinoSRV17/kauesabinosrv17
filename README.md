@@ -12,16 +12,13 @@ Also, i'm proud to say that i am starting to contribuite in projects that i use 
 
 - HTML 
 - Web Scrapping with Puppeteer
-- Javascript and Typescript
-- Unit Tests in JS (Vitest)
+- Typescript
+- Unit Tests (Vitest)
 - Tailwind
 - MySQL
-- Object Oriented Programing with Java
-- Java Spring Web
 - React Projects with React Query, Firebase and React Router
 - Git
 - CI/CD (Github Actions)
-- Unit Tests in Java (Junit, Mockito)
 - E2E Tests in Cypress
 - Linux
 - Bash Script
