@@ -34,6 +34,6 @@ Also, i'm proud to say that i am starting to contribuite in projects that i use 
 ## Current State of Knowledge
 
 - 🔭 I’m currently working on: TMaior LTDA, A Devops IT Company on Rio de Janeiro (in fact, i work from my home in Itu, São Paulo).
-- 🤔 I’m looking for help with: AWS Cloud 
+- 🤔 I’m looking for help with: Kubernetes 
 - 💬 Ask me about: My two cents about the future of front-end (Flutter hahahaha) and back-end (Mostly Cloud Providers) web development 
 - 📫 How to reach me: my email: kauevillaca2018@gmail.com
