@@ -27,12 +27,9 @@ Also, i'm proud to say that i am starting to contribuite in projects that i use 
 ## Learning now
 
 - AWS Cloud
-- AWS CloudFormation
 - Terraform
-- Azure Cloud (Focusing on Data Science)
 - Kubernetes
-- Trouble Shooting Linux Networks
-- Nginx
+- Golang
 
 ## Current State of Knowledge
 
