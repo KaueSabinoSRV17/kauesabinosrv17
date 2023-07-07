@@ -29,11 +29,11 @@ Also, i'm proud to say that I have a CLI Tool built in Golang, that I use every 
 ## Learning now
 
 - AWS Cloud
+- Flutter
 - Golang
 
 ## Current State of Knowledge
 
 - 🔭 I’m currently working on: TMaior LTDA, A Devops IT Company on Rio de Janeiro (in fact, i work from my home in Itu, São Paulo).
-- 🤔 I’m looking for help with: Kubernetes 
-- 💬 Ask me about: My two cents about the future of front-end (Flutter hahahaha) and back-end (Mostly Cloud Providers) web development 
-- 📫 How to reach me: my email: kauevillaca2018@gmail.com
+- 🤔 I’m looking for help with: Freelance Oportunities as a form of secondary income.
+- 📫 How to reach me: my email: kauevillaca2018@gmail.com.
