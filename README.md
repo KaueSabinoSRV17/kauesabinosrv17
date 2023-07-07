@@ -8,7 +8,7 @@ Now, i am very happy at a new Job at TMaior LTDA, as a Junior Devops Engineer.
 
 Also, i'm proud to say that i am starting to contribuite in projects that i use on GitHub. The first one is a [Chat GPT CLI](https://github.com/kharvd/gpt-cli)
 
-## Most Expirience with
+## Most Experience with
 
 - HTML 
 - Web Scrapping with Puppeteer
